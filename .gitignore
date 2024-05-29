@@ -1,3 +1,4 @@
+.gradle
 .classpath
 .project
 .settings
@@ -17,6 +18,8 @@ release.properties
 .idea
 *.iml
 classes
+
+gradlew.bat
 
 obj
 
